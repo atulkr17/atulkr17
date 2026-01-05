@@ -1,5 +1,8 @@
 # 💫 About Me:
-i'm pthon devloper, i have a good knowlege about FastAPI GraphQL Flask Alowng With AWS Git GitHub Jira Docker Kubernate <br>
+Python Developer experienced in designing and scaling RESTful and GraphQL services. Successfully delivered 10+ backend 
+projects from scratch, leveraging FastAPI for high-concurrency needs and Flask for versatile web applications. Proven track record 
+in implementing end-to-end features, including user authentication modules and optimized data querying, to ensure system 
+reliability and performance. <br>
 
 
 ## 🌐 Socials:
