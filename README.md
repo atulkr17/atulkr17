@@ -1,8 +1,9 @@
 # 💫 About Me:
-Python Developer experienced in designing and scaling RESTful and GraphQL services. Successfully delivered 10+ backend 
-projects from scratch, leveraging FastAPI for high-concurrency needs and Flask for versatile web applications. Proven track record 
-in implementing end-to-end features, including user authentication modules and optimized data querying, to ensure system 
-reliability and performance. <br>
+I’m a Python Backend Developer focused on building reliable, scalable backend systems. I’ve worked on multiple backend projects from scratch, designing RESTful and GraphQL APIs using FastAPI and Flask, with an emphasis on clean architecture and maintainable code.
+
+My experience includes developing end-to-end backend features such as authentication and authorization, database design, and optimized data querying using PostgreSQL and MySQL. I enjoy solving real-world backend challenges like performance, concurrency, and system reliability, and I’m comfortable working with Git, GitHub, Jira, and deploying services on AWS.
+
+I’m currently looking for opportunities as a Backend Developer or Software Engineer where I can contribute to production-ready systems, learn from experienced teams, and continue growing as a backend engineer.. <br>
 
 
 ## 🌐 Socials:
